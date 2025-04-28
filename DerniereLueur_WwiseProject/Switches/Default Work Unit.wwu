@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{66D321D3-9956-4DE0-A5BA-0E52AE5D3C8B}" SchemaVersion="103">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{66D321D3-9956-4DE0-A5BA-0E52AE5D3C8B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="SWT_Surface_Type_Anim" ID="{3E70822C-C61C-460C-B04A-307878F793F3}">
+					<ChildrenList>
+						<Switch Name="Concrete" ID="{138B403C-5AC1-4469-9376-519DD2A880DB}"/>
+						<Switch Name="Water" ID="{31CCA736-E6D3-4432-B9A5-B68FCD5ADE8C}"/>
+						<Switch Name="Ponts" ID="{35CBC82A-9ED7-49A2-818F-D6500AFB40DF}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

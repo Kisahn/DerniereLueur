@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{232A0A8C-4772-4FC8-A9D0-302A49C20CFE}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{232A0A8C-4772-4FC8-A9D0-302A49C20CFE}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Music" ID="{8F4E53E0-7BA3-4EA8-BE64-9EE5CD016474}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="13"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="Music" ID="{5FDE46A9-4A37-44B1-8DD9-E33035CE5F78}" WorkUnitID="{011D5EDF-CCCE-4DFD-A01F-4AC04D0EBFEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music" ID="{34F06028-4CBB-4AEC-964D-1C0129D3C3CB}" WorkUnitID="{4E86D7B5-3A1E-4206-AF15-7988ACA879D0}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Character" ID="{C7EA3582-E88F-44B6-8D61-2CC52A7FC01C}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Footsteps" ID="{BD110B1F-DDE9-43DE-A041-2F988CD7C3BF}" WorkUnitID="{011D5EDF-CCCE-4DFD-A01F-4AC04D0EBFEB}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Character" ID="{0B300970-69FA-487C-A561-4817FD504F30}" WorkUnitID="{011D5EDF-CCCE-4DFD-A01F-4AC04D0EBFEB}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Environment" ID="{D569F1FB-4D01-4449-ADEB-251D8FC6C93A}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="4"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="Environment" ID="{13DDF86F-04F3-4307-A3E9-DF5A4015B0C4}" WorkUnitID="{011D5EDF-CCCE-4DFD-A01F-4AC04D0EBFEB}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
