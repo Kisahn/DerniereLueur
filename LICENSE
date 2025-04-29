@@ -1,0 +1,100 @@
+# 📜 Dernière Lueur – Usage License
+
+Creative Commons Attribution-NonCommercial 4.0 International Public License
+
+By using, copying, modifying, or distributing this project ("Dernière Lueur"), you agree to the terms of this license.
+
+---
+
+## You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+---
+
+## Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## Authors:
+
+This project was collaboratively developed by:
+
+- **Jean Deck** – Gameplay developer, UI scripting  
+  [https://www.linkedin.com/in/jean-deck-2b915aa9/](https://www.linkedin.com/in/jean-deck-2b915aa9/)
+
+- **Anthony Hurez** – Lead Unreal Engine Developer  
+  *(No public LinkedIn profile)*
+
+- **Théo Benazet** – Art Director, Concept Artist, 3D Modeling  
+  [https://www.linkedin.com/in/th%C3%A9o-benazet-a13518203/](https://www.linkedin.com/in/th%C3%A9o-benazet-a13518203/)
+
+- **Clémence Gillet** – Product Owner, Narrative Design  
+  [https://www.linkedin.com/in/clemence-gillet-video-game/](https://www.linkedin.com/in/clemence-gillet-video-game/)
+
+- **Léo Riba** – Assistant Art Director, Sound Designer, OST Composer  
+  [https://www.linkedin.com/in/léo-riba-352090165/](https://www.linkedin.com/in/léo-riba-352090165/)
+
+- **Yann Greiveldinger** – Scrum Master, Level Designer  
+  [https://www.linkedin.com/in/yann-greiveldinger-942b34244/](https://www.linkedin.com/in/yann-greiveldinger-942b34244/)
+
+- **Tristan Charial** – Game & Level Designer  
+  *(No public LinkedIn profile)*
+
+- **Mélanie Gallardo** – 3D Artist  
+  [https://www.linkedin.com/in/m%C3%A9lanie-gallardo/](https://www.linkedin.com/in/m%C3%A9lanie-gallardo/)
+
+- **Jorick Regottaz** – Level Designer, 2D/3D Artist  
+  [https://www.linkedin.com/in/jorick-regottaz/](https://www.linkedin.com/in/jorick-regottaz/)
+
+- **Joan Iaria** – Narrative Designer, Sound Design Support  
+  [https://www.linkedin.com/in/joan-iaria/](https://www.linkedin.com/in/joan-iaria/)
+
+- **Benoît Rivière** – Original Concept, 3D Art Support  
+  [https://www.linkedin.com/in/rivi%C3%A8rebeno%C3%AE/](https://www.linkedin.com/in/rivi%C3%A8rebeno%C3%AE/)
+
+- **Louis Leclair** – 3D Art Support  
+  [https://www.linkedin.com/in/louis-leclair-4a0313115/](https://www.linkedin.com/in/louis-leclair-4a0313115/)
+
+- **Jérémy Thouement** – 2D Art Support  
+  *(No public LinkedIn profile)*
+
+- **Alix Chuvin** – Legal Counsel  
+  [https://www.linkedin.com/in/alix-chuvin-b804bb208/](https://www.linkedin.com/in/alix-chuvin-b804bb208/)
+
+- **Raphaël Pittet** – Legal Counsel  
+  *(No public LinkedIn profile)*
+
+---
+
+## Asset Restrictions
+
+This license applies **only** to the original source code contained in this repository.
+
+The following assets are **not** licensed under the CC BY-NC 4.0 license and **cannot be reused, redistributed, or modified** without the explicit permission of their respective authors:
+
+- All **audio assets**, including sound effects and music integrated via Wwise.
+- All **3D models**, including the player character and environmental meshes.
+- All **2D assets**, such as UI elements, textures, and icons.
+- All **animations** specifically created for this project.
+- All **cinematics** specifically created for this project.
+
+These assets are included solely for **educational and non-commercial demonstration purposes**.  
+They remain the intellectual property of their respective creators and **must not be used in other projects** without prior written consent.
+
+---
+
+## License Link
+
+Full license text available at:  
+https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+For any inquiries regarding commercial use or redistribution, please contact the authors directly.
